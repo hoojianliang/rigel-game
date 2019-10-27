@@ -1,5 +1,5 @@
 # rigel-game
- RIGEL assessment
+ RIGEL assessment on https://hoojianliang.github.io/rigel-game/
 
 Rules:
 
